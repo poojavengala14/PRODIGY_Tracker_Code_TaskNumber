@@ -2,18 +2,23 @@
 Machine Learning Internship Tasks and Projects
 # Machine Learning Internship
 
-This repository contains my Machine Learning internship tasks and projects.
+This repository contains my Machine Learning internship tasks.
 
-## Contents
+### Task 1
+- Machine Learning Model
 - Data Preprocessing
-- Model Training
 - Model Evaluation
-- Jupyter Notebook (.ipynb)
+
+### Task 2
+- Machine Learning Project
+- Data Analysis
+- Model Training
+- Performance Evaluation
 
 ## Technologies Used
 - Python
-- NumPy
 - Pandas
-- Scikit-learn
+- NumPy
 - Matplotlib
+- Scikit-learn
 - Jupyter Notebook
